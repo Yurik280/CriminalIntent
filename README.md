@@ -1,2 +1,2 @@
 # CriminalIntent
-A study android project
+A training android project
